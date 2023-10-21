@@ -10,4 +10,4 @@ const intervalid = setInterval(function () {
     for (let letter of letters) {
         letter.style.color = rngRGB();
     }
-}, 500);
+}, 1000);
